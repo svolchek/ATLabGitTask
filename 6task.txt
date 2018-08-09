@@ -1,1 +1,10 @@
 cherry-pick
+
+plum-pick
+
+apple-pick
+
+pear-pick
+
+Aleksei-pick
+
